@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: project07.jpg
+logo: project07.png
+alt: image-alt
+project-name: Currency
+project-date: March 2015 - now
+client: Alex Zaitsev
+app-link: https://play.google.com/store/apps/details?id=pro.alex_zaitsev.currency
+category: Android Development
+description: Simple application to publish private currency exchange adverts. In Ukraine you cannot buy foreign currency in the bank so "black" currency market is alive. Using "Currency" user can simply buy currency or find a buyer in his city.<br><br>Features:<ul align="left"><li>posting buy adverts;</li><li>posting sell adverts;</li><li>filtration</li><li>adverts by cities;</li><li>managing posted adverts.</li></ul><p align="left">Additional:<ul align="left"><li>make advert colored;</li><li>move to top;</li><li>prolong advert to 2, 3 and 7 days.</li></ul></p><br><br><p align="left">This application is opensourced&#58; <a href="https://github.com/alexzaitsev/currency-client" target="blank">client</a> and <a href="https://github.com/alexzaitsev/currency-server" target="blank">server.</a><br><br>Read my article about Parse migration <a href="https://medium.com/@alexzaitsev/migration-from-parse-to-heroku-and-parse-server-efd187eb739b" target="blank">here.</a></p>
+
+---

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: project08.jpg
+logo: project08.png
+alt: image-alt
+project-name: Potter
+project-date: August 2015 - now
+client: Potter Questroom
+app-link: http://www.potter.com.ua
+category: Web Development
+description: Potter is a magic questroom located in the center of Dnipropetrovsk. This type of spending time is popular in big Ukrainian cities. The group of people is locked in the room and have 1 hour to solve logical puzzles and defeat The Dark Lord.<br><br>Site runs on Nodejs framework on the Heroku. Bootstrap is used as frontend Javascript framework. There is also a <a href="http://www.potter.com.ua/login" target="blank">admin panel</a> with limited access. Admins can manage orders&#58; create, update or delete.
+
+---

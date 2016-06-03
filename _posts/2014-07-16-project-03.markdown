@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: project03.jpg
+logo: project03.png
+alt: image-alt
+project-name: Flight Hero
+project-date: September 2014 - June 2015
+client: Flextrela
+app-link: https://play.google.com/store/apps/details?id=com.ik.flightherofree
+category: Android Development
+description: Flight Hero is a flight-tracking application that provides a real time flight status information and helps you to know flight status, lets you to track a flight.<br><br>This project is quite huge and exist in two versions&#58; Pro and Free. Some functionality is unavailable in Free version. Some functions of these applications&#58; real time flight board with arrivals and departures, flight status, flight alerts via push notifications, airport weather and traffic delays, sharing information on flight status, terminal plans and seat maps, powerful flight search, favorites flights list, TripIt sync, lots of services (browse hotels via Booking.com, car hire via RentalCars.com, integrated with Foursquare, Radar shows nearest airports and flights etc.)<br><br>I also developed App Widget, using which user can track flights status.<br><br>Free version has more than <b>1 billion downloads</b>.
+
+---

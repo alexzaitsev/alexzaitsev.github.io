@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 9
+date: 2014-07-10
+img: project09.jpg
+logo: project09.png
+alt: image-alt
+project-name: Portfolio
+project-date: May 2016 - now
+client: Alex Zaitsev
+app-link: http://alex-zaitsev.com
+category: Web Development
+description: This site is also a part of my portfolio. It was built using Jekyll tool. Bootstrap is used as frontend Javascript framework.
+
+---

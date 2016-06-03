@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: project04.jpg
+logo: project04.png
+alt: image-alt
+project-name: AnyTravel
+project-date: November 2014 - now
+client: AnyTravel
+app-link: https://play.google.com/store/apps/details?id=any.travel
+category: Android Development
+description: This application is a mobile client for <a href="http://any.travel">any.travel</a> site. It has functionality of <a href="https://play.google.com/store/apps/details?id=net.aviascanner.aviascanner" target="blank">Flights</a> and <a href="https://play.google.com/store/apps/details?id=any.travel.hotels" target="blank">Hotels</a> applications under the hood.<br><br>Using this combination you can forget about troubles with air tickets and seeking for place to sleep.<br><br>Combining two applications into single one was a great experience of code reusing and project modularity. 
+
+---
