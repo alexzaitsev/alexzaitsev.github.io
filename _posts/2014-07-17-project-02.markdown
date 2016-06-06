@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: project02.jpg
 logo: project02.png
-alt: image-alt
+alt: My Day
 project-name: My Day
 project-date: January 2015 - January 2016
 client: Yalantis

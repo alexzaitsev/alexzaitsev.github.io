@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-15
 img: project04.jpg
 logo: project04.png
-alt: image-alt
+alt: AnyTravel
 project-name: AnyTravel
 project-date: November 2014 - now
 client: AnyTravel

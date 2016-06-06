@@ -4,7 +4,7 @@ modal-id: 8
 date: 2014-07-11
 img: project08.jpg
 logo: project08.png
-alt: image-alt
+alt: Potter
 project-name: Potter
 project-date: August 2015 - now
 client: Potter Questroom

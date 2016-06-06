@@ -4,7 +4,7 @@ modal-id: 9
 date: 2014-07-10
 img: project09.jpg
 logo: project09.png
-alt: image-alt
+alt: Portfolio
 project-name: Portfolio
 project-date: May 2016 - now
 client: Alex Zaitsev

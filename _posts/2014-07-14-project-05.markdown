@@ -4,7 +4,7 @@ modal-id: 5
 date: 2014-07-14
 img: project05.jpg
 logo: project05.png
-alt: image-alt
+alt: Hotels
 project-name: Hotels
 project-date: October 2014 - now
 client: AnyTravel
