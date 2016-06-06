@@ -10,6 +10,6 @@ project-date: October 2014 - now
 client: AnyTravel
 app-link: https://play.google.com/store/apps/details?id=any.travel.hotels
 category: Android Development
-description: Hotels is a part of <a href="http://any.travel" target="blank">any.travel</a> ecosystem.<br><br>This application is very quick and clear way to book hotel. As in other AnyTravel projects, KISS and speed were main requirements.<br><br>While developing I had to solve various performance tasks. Initially application worked for API 10+ so I had to support old devices with low memory. So I had to manage huge network responses and avoid OOM exceptions. This and other performance tasks were succesfuly resolved. As a result application has clear and predictive interface and works very fast.
+description: Hotels is a part of <a href="http://any.travel" target="blank">any.travel</a> ecosystem.<br><br>This application is very quick and clear way to book hotel. As in other AnyTravel projects, KISS and speed were main requirements.<br><br>While developing I had to solve various performance tasks. Initially application worked for API 10+ so I had to support old devices with low memory. So I had to manage huge network responses and avoid OOM exceptions. This and other performance tasks were succesfuly resolved. As a result application has clear and predictive interface and works smooth.
 
 ---
