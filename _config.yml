@@ -57,7 +57,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Eastern Europe
-  - line: Ukraine, Dnipropetrovsk
+  - line: Ukraine, Dnipro
 
 # Credits content
 credits: 'My public CV is available on the <a href="https://stackoverflow.com/jobs/cv/employer/411275" target="blank">Jobs Stackoverflow.</a>'
