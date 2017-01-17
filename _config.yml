@@ -4,16 +4,16 @@ exclude: ["/img-originals"]
 title: Alex Zaitsev
 email: alex.zaitsev.pro@gmail.com
 url: https://github.com/alexzaitsev
-description: "I am Alex Zaitsev - Senior Android Developer, Full Stack Developer. Have overall 4 years of experience in mobile and web development."
-keywords: "software, development, mobile, android, ios, frontend, backend, freelancer, developer"
+description: "I am Alex Zaitsev - Senior Android Developer, Full Stack Developer. Have overall 5 years of experience in mobile and web development."
+keywords: "software, development, mobile, android, ios, frontend, backend, freelancer, developer, ukraine, agency, europe"
 skills: "Senior Android Developer - Full Stack Developer"
 meta_author: Alex Zaitsev
 
 # Google webmaster tools
-google_verify:
+google_verify: 0ABt7rUG0aZXTjOa0q6tZYCIR3l9K_tY3BxDJFgqrfk
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 013138E62ED911705F527E77FE2FD654
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -45,14 +45,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: google-plus
-    url: https://plus.google.com/+AlexanderZaitsevDev
-  - title: facebook
-    url: https://www.facebook.com/alexander.zaitsev.31
-  - title: linkedin
-    url: https://ua.linkedin.com/in/alexander-zaitsev-60770159
   - title: github
     url: https://github.com/alexzaitsev
+  - title: linkedin
+    url: https://ua.linkedin.com/in/alexander-zaitsev-60770159
+  - title: facebook
+    url: https://www.facebook.com/alexander.zaitsev.31
+  - title: google-plus
+    url: https://plus.google.com/+AlexanderZaitsevDev
 
 # Postal address (add as many lines as necessary)
 address:
