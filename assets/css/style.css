@@ -115,6 +115,9 @@ h6 {
 	z-index: 100; 
 	cursor: pointer;
 }
+.keepall {
+    word-break: keep-all;
+}
 .breakall {
 	word-break: break-all;
 }
