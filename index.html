@@ -37,7 +37,7 @@
 
 </head>
 
-<body>
+<body class="bg-dark-black">
 
     <div class="text-uppercase lang">
         <span id="lang">ru</span>
@@ -46,7 +46,7 @@
     <div id="fullpage" class="text-white">
 
         <!-- HEADER -->
-        <div class="section bg-dark-black">
+        <div class="section">
             <div class="container wow fadeInUp">
                 <div class="row">
 
@@ -119,7 +119,7 @@
         <!-- .section -->
 
         <!-- PROJECTS -->
-        <div class="section bg-dark-black">
+        <div class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -163,7 +163,7 @@
         </div>
         
         <!-- EMPLOYMENT -->
-        <div class="section bg-dark-black">
+        <div class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -203,7 +203,7 @@
         </div>
 
         <!-- CONTACT -->
-        <div class="section bg-dark-black">
+        <div class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -277,6 +277,9 @@
             }
 
             $(document).ready(function() {
+
+                $('#fullpage').show();
+
                 if (notSmallScreen()) {
                     $('#fullpage').fullpage({
                         scrollBar:true,

@@ -121,3 +121,6 @@ h6 {
 .breakall {
 	word-break: break-all;
 }
+div#fullpage {
+    display: none;
+}
