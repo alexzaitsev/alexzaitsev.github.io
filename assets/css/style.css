@@ -115,6 +115,13 @@ h6 {
 	z-index: 100; 
 	cursor: pointer;
 }
+.lang-mobile {
+    position: absolute; 
+    right: 20px; 
+    top: 10px; 
+    z-index: 100; 
+    cursor: pointer;
+}
 .keepall {
     word-break: keep-all;
 }

@@ -252,8 +252,8 @@
             <!-- .container -->
         </div>
 
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/plugins/jquery.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/plugins/jquery.fullPage.min.js"></script>
         <script src="assets/plugins/wow.min.js"></script>
         
@@ -280,11 +280,19 @@
 
                 $('#fullpage').show();
 
-                if (notSmallScreen()) {
-                    $('#fullpage').fullpage({
-                        scrollBar:true,
-                        navigation:true
-                    });
+                switch (findBootstrapEnvironment()) {
+                    case 'xs':
+                        $('.lang').removeClass('lang').addClass('lang-mobile');
+                        break;
+                    case 'sm':
+                        break;
+                    case 'md':
+                    case 'lg':
+                        $('#fullpage').fullpage({
+                            scrollBar:true,
+                            navigation:true
+                        });
+                        break;
                 }
                 
                 new WOW().init();
@@ -329,11 +337,6 @@
                     l_lang = 'en';
                 }
                 return l_lang;
-            }
-
-            function notSmallScreen() {
-                var env = findBootstrapEnvironment();
-                return env == 'md' || env == 'lg';
             }
 
             function findBootstrapEnvironment() {
