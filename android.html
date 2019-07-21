@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Alex Zaitsev's Android experience">
-    <meta name="keywords" content="alex, zaitsev, android, developer, ukraine, software">
+    <meta name="keywords" content="alex, zaitsev, android, java, kotlin, developer, ukraine, software">
     <meta name="author" content="Alex Zaitsev">
     <title>Android</title>
 
@@ -55,7 +55,7 @@
                             <!-- .col-## -->
                             <div class="col-md-8">
                                 <h2 class="text-uppercase">Alex Zaitsev</h2>
-                                <span class="caption-subtitle">Software Engineer and Architect</span>
+                                <span class="caption-subtitle">Senior Software Engineer</span>
                                 <div class="marg-60-top">
                                     <p class="summary">I create qualitative Android applications from scratch and build architecture of all complexity levels.</p>
                                 </div>
@@ -77,7 +77,7 @@
                                     <!-- .col-## -->
                                     <div class="col-sm-7">
                                         <h2 class="text-uppercase">Alex Zaitsev</h2>
-                                        <span class="caption-subtitle">Software Developer and Architect</span>
+                                        <span class="caption-subtitle">Senior Software Engineer</span>
                                     </div>
                                 </div>
                                 <!-- .row -->
@@ -97,7 +97,7 @@
                                 <div class="row">
                                     <div class="col-xs-10 marg-60-top">
                                         <h2 class="text-uppercase">Alex Zaitsev</h2>
-                                        <span class="caption-subtitle">Software Developer and Architect</span>
+                                        <span class="caption-subtitle">Senior Software Engineer</span>
                                     </div>
                                 </div>
                                 <!-- .row -->
@@ -216,7 +216,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="visible-xs visible-sm marg-100-top"></div>
-                        <h3 class="marg-60-btm text-uppercase"><span id="iamopen" class="keepall">I'm available for freelance work</span></h3>
+                        <h3 class="marg-60-btm text-uppercase"><span id="contacts" class="keepall">I'm available for freelance work</span></h3>
                     </div>
                     <!-- .col-md-8 -->
                 </div>
@@ -269,18 +269,18 @@
 
             var strings = {
                 'ru' : {
-                    'profession': "Инженер и архитектор ПО",
+                    'profession': "Senior Software Engineer",
                     'summary': "Создаю качественные Android-приложения с нуля. Строю архитектуру любого уровня сложности.",
                     'projects': "Проекты",
                     'workplaces': "Занятость",
-                    'iamopen': "Я открыт для сотрудничества"
+                    'contacts': "Мои контакты"
                 },
                 'en' : {
-                    'profession': "Software Engineer and Architect",
+                    'profession': "Senior Software Engineer",
                     'summary': "I create qualitative Android applications from scratch and build architecture of all complexity levels.",
                     'projects': "Projects",
                     'workplaces': "Workplaces",
-                    'iamopen': "I'm available for freelance work"
+                    'contacts': "My contacts"
                 }
             }
 
@@ -318,7 +318,7 @@
                 $("p.summary").text(strings[lang]['summary']);
                 $("#projects").text(strings[lang]['projects']);
                 $("#workplaces").text(strings[lang]['workplaces']);
-                $("#iamopen").text(strings[lang]['iamopen']);
+                $("#contacts").text(strings[lang]['contacts']);
                 $("#lang").text(toggleLanguage(lang));
                 $('html').attr('lang', lang);
             }
